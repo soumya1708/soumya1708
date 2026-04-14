@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=App+Developer;Kotlin+Learner;DSA+in+Java;Future+Top+Developer&speed=100&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=50&center=true&vCenter=true&width=600&lines=App+Developer;Kotlin+Learner;DSA+in+Java;Future+Top+Developer&speed=100&pause=1000" />
 </p>
 
 
