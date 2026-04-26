@@ -13,7 +13,7 @@
 - 📱 Aspiring App Developer in Kotlin, with experience in Android Studio, Java, Firebase, and FastAPI
 - 💻 Currently learning **DSA in Java** 
 - 🌱 Exploring Web & App Development
-- ⚡ Goal: Become a top app developerwhere 
+- ⚡ Goal: Become a top app developer
 
 ---
 
