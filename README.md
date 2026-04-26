@@ -62,3 +62,6 @@
 - 📚 DSA Practice
 - 🚀 Building Projects
 - 💡 Improving Problem Solving
+
+## 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=soumya1708&color=blue)
