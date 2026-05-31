@@ -168,13 +168,7 @@
 ---
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-![Snake animation](https://github.com/soumya1708/soumya1708/blob/output/github-contribution-grid-snake.svg)
-
-</div>
 # 📈 Contribution Graph
 
 <div align="center">
@@ -195,13 +189,6 @@
 </div>
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=soumya1708&theme=tokyonight&row=1&column=6" />
-
-</div>
 
 # 🧠 LeetCode Stats
 
