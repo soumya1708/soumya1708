@@ -1,32 +1,19 @@
-<p align="center">
-  <a href="https://www.linkedin.com/in/soumya-mondal-1b5030384">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="https://my-portfolio-ruddy-five-29.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" />
-  </a>
-
-  <a href="mailto:soumya.mondal1708@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
 <div align="center">
 
 # Hi 👋, I'm Soumya
 
-### 🚀 Aspiring App Developer | DSA Learner
+### 🚀 Android Developer | Kotlin | Firebase | DSA
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=700&lines=Android+Developer;Kotlin+Developer;Firebase+Enthusiast;Learning+Spring+Boot;DSA+in+Java" />
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/soumya-mondal-1b5030384/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://my-portfolio-ruddy-five-29.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" />
   </a>
 
@@ -43,20 +30,21 @@
 
 <table>
 <tr>
+
 <td width="65%">
 
 - 🎓 Pursuing BTech in Information Technology at Techno Main Salt Lake
 - 📱 Aspiring App Developer in Kotlin, with experience in Android Studio, Java, Firebase and FastAPI
-- 🌱 Currently learning DSA in Java
-- ⚙️ Exploring Spring Boot Backend Development
-- 🚀 Building Android Applications
+- 💻 Currently learning DSA in Java
+- 🌱 Exploring Web & App Development
+- ⚙️ Learning Spring Boot Backend Development
 - ⚡ Goal: Become a top app developer
 
 </td>
 
 <td width="35%">
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
 
 </td>
 
@@ -82,7 +70,7 @@
 ### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,spring" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi" />
 </p>
 
 ### 🛠️ Tools
@@ -97,7 +85,7 @@
 
 - 📱 Android Development using Kotlin
 - 🔥 Firebase Authentication & Firestore
-- 🌱 Spring Boot Backend
+- 🌱 Spring Boot Backend Development
 - 🧠 DSA in Java
 
 ---
@@ -156,6 +144,6 @@
 
 <div align="center">
 
-### 💡 "Consistency beats intensity."
+### 💡 Consistency beats intensity.
 
 </div>
