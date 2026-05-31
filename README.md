@@ -9,17 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/soumya-mondal-1b5030384/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
 
-  <a href="https://my-portfolio-ruddy-five-29.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumya-mondal-1b5030384/)
 
-  <a href="mailto:soumya.mondal1708@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://my-portfolio-ruddy-five-29.vercel.app/)
+
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:soumya.mondal1708@gmail.com)
+
 </p>
 
 </div>
@@ -87,6 +83,46 @@
 - 🔥 Firebase Authentication & Firestore
 - 🌱 Spring Boot Backend Development
 - 🧠 DSA in Java
+
+---
+
+# 📂 Featured Projects
+
+### 🩸 [Sanjeevani](https://github.com/soumya1708/Sanjeevani)
+
+**High-Precision Medical Dispatch System**
+
+> An intelligent hyper-local emergency response platform designed to reduce critical delays during blood and platelet emergencies.
+
+**Overview**
+- Smart emergency broadcasting based on location and urgency
+- Designed to eliminate unnecessary mass notifications
+- AI-assisted request processing and coordination
+
+**Key Highlights**
+- 🌐 Built using HTML5, CSS, JavaScript and Tailwind CSS
+- 🤖 Gemini API integration
+- ⚡ Fast and responsive interface
+- 🩸 Blood and platelet emergency management system
+
+---
+
+### 💼 [My Portfolio](https://github.com/soumya1708/my-portfolio)
+
+**Modern Developer Portfolio Website**
+
+> A personal portfolio showcasing my technical journey, projects, skills, and backend development experience.
+
+**Overview**
+- Central hub for projects and achievements
+- Highlights Android, Java, Firebase and Spring Boot experience
+- Modern responsive design
+
+**Key Highlights**
+- 🎨 Built using React and Tailwind CSS
+- 📱 Fully responsive
+- 🚀 Deployed on Vercel
+- 🔗 Integrated GitHub, LinkedIn and LeetCode links
 
 ---
 
