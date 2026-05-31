@@ -169,15 +169,7 @@
 ---
 
 
-# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya1708&theme=tokyo-night"/>
-
-</div>
-
----
 ---
 
 # 📈 GitHub Metrics
