@@ -126,6 +126,20 @@
 
 ---
 
+# 📌 Popular Repositories
+
+<div align="center">
+
+<a href="https://github.com/soumya1708/Sanjeevani">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumya1708&repo=Sanjeevani&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/soumya1708/my-portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=soumya1708&repo=my-portfolio&theme=tokyonight" />
+</a>
+
+</div>
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -138,16 +152,29 @@
 
 ---
 
-# 🔥 GitHub Streak
+---
+
+# 🔥 GitHub Streak & Dynamic Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya1708&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=soumya1708&theme=tokyonight" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya1708&theme=tokyo-night&hide_border=true" />
 
 </div>
-
+---
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/soumya1708/soumya1708/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 # 📈 Contribution Graph
 
 <div align="center">
@@ -157,6 +184,24 @@
 </div>
 
 ---
+---
+
+# 📈 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya1708&theme=tokyonight" />
+
+</div>
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=soumya1708&theme=tokyonight&row=1&column=6" />
+
+</div>
 
 # 🧠 LeetCode Stats
 
