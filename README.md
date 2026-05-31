@@ -1,3 +1,16 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumya-mondal-1b5030384">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://my-portfolio-ruddy-five-29.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" />
+  </a>
+
+  <a href="mailto:soumya.mondal1708@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 <div align="center">
 
 # Hi 👋, I'm Soumya
