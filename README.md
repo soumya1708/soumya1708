@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumya-mondal-1b5030384/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel)](https://my-portfolio-ruddy-five-29.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:soumya.mondal1708@gmail.com)
+  <a href="https://www.linkedin.com/in/soumya-mondal-1b5030384/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://my-portfolio-ruddy-five-29.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=vercel" alt="Portfolio" /></a>
+  <a href="mailto:soumya.mondal1708@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 </div>
@@ -161,9 +161,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya1708&theme=tokyo-night&hide_border=true" />
 
 </div>
+---
+---
 
----
----
+
 
 ---
 
@@ -174,8 +175,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumya1708&theme=tokyonight" />
 
 </div>
-
 ---
+
 
 # 🧠 LeetCode Stats
 
