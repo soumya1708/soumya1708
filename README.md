@@ -161,8 +161,11 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumya1708&theme=tokyo-night&hide_border=true" />
 
 </div>
----
----
+## 🔥 Current Focus
+- 📚 DSA Practice
+- 🚀 Building Projects
+- 💡 Improving Problem Solving
+
 
 
 
