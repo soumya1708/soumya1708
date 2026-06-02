@@ -146,9 +146,6 @@
 
 </div>
 
----
-
----
 
 # 🔥 GitHub Streak & Dynamic Activity
 
